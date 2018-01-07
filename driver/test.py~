@@ -1,0 +1,6 @@
+from index import drivers
+
+driver = driver.chrome()
+
+html = driver.get('https://www.baidu.com')
+print(html)

@@ -1,0 +1,3 @@
+import json
+
+options = json.load('a.json')
